@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfMusic>
+  <Music>
+    <MusicAlbum>Divide</MusicAlbum>
+    <MusicArtist>Ed Sheeran</MusicArtist>
+    <MusicSong>_101</MusicSong>
+    <MusicCategory>Pop</MusicCategory>
+    <MusicPrice>24,22</MusicPrice>
+    <MusicImage>_16</MusicImage>
+  </Music>
+  <Music>
+    <MusicArtist>Adele</MusicArtist>
+    <MusicAlbum>25</MusicAlbum>
+    <MusicSong>_105</MusicSong>
+    <MusicImage>_20</MusicImage>
+    <MusicCategory>Pop</MusicCategory>
+    <MusicPrice>48,99</MusicPrice>
+  </Music>
+  <Music>
+    <MusicArtist>Coldplay</MusicArtist>
+    <MusicAlbum>Parachutes</MusicAlbum>
+    <MusicSong>_108</MusicSong>
+    <MusicImage>_23</MusicImage>
+    <MusicCategory>Alternative Rock</MusicCategory>
+    <MusicPrice>60,99</MusicPrice>
+  </Music>
+</ArrayOfMusic>

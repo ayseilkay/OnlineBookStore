@@ -1,0 +1,90 @@
+c:\users\tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignIn.resources
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Home.resources
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Resource.resources
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignUp.resources
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\Tuceo\documents\visual studio 2015\Projects\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Profile.resources
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignIn.resources
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Home.resources
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Profile.resources
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Resource.resources
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignUp.resources
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+C:\Users\selen\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignIn.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Home.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Profile.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Resource.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignUp.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.MusicPanel.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ShoppingCartForm.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Description.resources
+C:\Users\Tuceo\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Payment.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Description.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.MusicPanel.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Payment.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ShoppingCartForm.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignIn.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Home.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Profile.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Resource.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignUp.resources
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\selen\Desktop\OOP C#\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+D:\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe.config
+D:\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.exe
+D:\OnlineBookStore\OnlineBookStore\bin\Debug\OnlineBookStore.pdb
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Description.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.MusicPanel.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Payment.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ShoppingCartForm.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignIn.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Home.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Profile.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Properties.Resources.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Resource.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignUp.resources
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+D:\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Description.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.MusicPanel.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Payment.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.ShoppingCartForm.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignIn.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Home.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Profile.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.Resource.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.SignUp.resources
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.exe
+C:\Users\Ali\Desktop\OnlineBookStore\OnlineBookStore\obj\Debug\OnlineBookStore.pdb

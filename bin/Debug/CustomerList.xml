@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer>
+  <Customer>
+    <CustomerName>Cihan</CustomerName>
+    <CustomerPassword>1</CustomerPassword>
+    <CustomerLastName>Uyanık</CustomerLastName>
+    <CustomerEmail>cihanuyanik@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>05326497800</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
+    <CustomerName>Tugce</CustomerName>
+    <CustomerPassword>2</CustomerPassword>
+    <CustomerLastName>Ozgen</CustomerLastName>
+    <CustomerEmail>tozgen@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>05364569875</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
+    <CustomerName>Elif Selen</CustomerName>
+    <CustomerPassword>3</CustomerPassword>
+    <CustomerLastName>Coban</CustomerLastName>
+    <CustomerEmail>elfslncbn@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>05364698652</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
+    <CustomerName>Ayse</CustomerName>
+    <CustomerPassword>4</CustomerPassword>
+    <CustomerLastName>Ilkay</CustomerLastName>
+    <CustomerEmail>aayse@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>05386492363</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
+    <CustomerName>Didem Nursal</CustomerName>
+    <CustomerPassword>5</CustomerPassword>
+    <CustomerLastName>Kome</CustomerLastName>
+    <CustomerEmail>didmkome@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>0539468231</CustomerPhoneNumber>
+  </Customer>
+  <Customer>
+    <CustomerName>ali</CustomerName>
+    <CustomerLastName>birinci</CustomerLastName>
+    <CustomerEmail>ali@gmail.com</CustomerEmail>
+    <CustomerPhoneNumber>553685258</CustomerPhoneNumber>
+    <CustomerPassword>123</CustomerPassword>
+  </Customer>
+</ArrayOfCustomer>

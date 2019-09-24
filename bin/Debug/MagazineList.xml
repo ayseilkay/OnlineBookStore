@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfMagazine>
+  <Magazine>
+    <MagazineName>Kafa</MagazineName>
+    <MagazineImage>_25</MagazineImage>
+    <MagazinePublisher>Kafa Dergisi</MagazinePublisher>
+    <MagazineCategory>Fun</MagazineCategory>
+    <MagazinePrice>7,00</MagazinePrice>
+  </Magazine>
+  <Magazine>
+    <MagazineName>ELLE</MagazineName>
+    <MagazineImage>_29</MagazineImage>
+    <MagazinePublisher>ELLE</MagazinePublisher>
+    <MagazineCategory>Woman</MagazineCategory>
+    <MagazinePrice>12,00</MagazinePrice>
+  </Magazine>
+  <Magazine>
+    <MagazineName>National Geographic</MagazineName>
+    <MagazineImage>_30</MagazineImage>
+    <MagazinePublisher>Nat Geo</MagazinePublisher>
+    <MagazineCategory>Science</MagazineCategory>
+    <MagazinePrice>11,25</MagazinePrice>
+  </Magazine>
+</ArrayOfMagazine>

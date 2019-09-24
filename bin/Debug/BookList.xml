@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ArrayOfBook>
+  <Book>
+    <BookName>The Final Empire</BookName>
+    <BookImage>_1</BookImage>
+    <BookAuthor>Brandon Sanderson</BookAuthor>
+    <BookPrice>24,32</BookPrice>
+    <BookCategory>Fantasy</BookCategory>
+    <BookPageNumber>541</BookPageNumber>
+    <BookDescription>In a world where ash falls from the sky, and mist dominates the night, an evil cloaks the land and stifles all life. The future of the empire rests on the shoulders of a troublemaker and his young apprentice. Together, can they fill the world with color once more?
+
+In Brandon Sanderson's intriguing tale of love, loss, despair and hope, a new kind of magic enters the stage.</BookDescription>
+  </Book>
+
+  <Book>
+    <BookName>The Name of the Wind</BookName>
+    <BookImage>_3</BookImage>
+    <BookAuthor>Patrick Rothfuss</BookAuthor>
+    <BookPrice>24,5</BookPrice>
+    <BookCategory>Fantasy</BookCategory>
+    <BookPageNumber>662</BookPageNumber>
+    <BookDescription>Told in Kvothe's own voice, this is the tale of the magically gifted young man who grows to be the most notorious wizard his world has ever seen. 
+
+The intimate narrative of his childhood in a troupe of traveling players, his years spent as a near-feral orphan in a crime-ridden city, his daringly brazen yet successful bid to enter a legendary school of magic, and his life as a fugitive after the murder of a king form a gripping coming-of-age story unrivaled in recent literature. 
+
+A high-action story written with a poet's hand, The Name of the Wind is a masterpiece that will transport readers into the body and mind of a wizard.</BookDescription>
+  </Book>
+  
+  <Book>
+    <BookName>Pride and Prejudice</BookName>
+    <BookImage>_5</BookImage>
+    <BookAuthor>Jane Austen</BookAuthor>
+    <BookPrice>25,00</BookPrice>
+    <BookCategory>Classic</BookCategory>
+    <BookPageNumber>279</BookPageNumber>
+    <BookDescription>“It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.” So begins Pride and Prejudice, Jane Austen’s witty comedy of manners—one of the most popular novels of all time—that features splendidly civilized sparring between the proud Mr. Darcy and the prejudiced Elizabeth Bennet as they play out their spirited courtship in a series of eighteenth-century drawing-room intrigues. Renowned literary critic and historian George Saintsbury in 1894 declared it the “most perfect, the most characteristic, the most eminently quintessential of its author’s works,” and Eudora Welty in the twentieth century described it as “irresistible and as nearly flawless as any fiction could be.”</BookDescription>
+  </Book>
+ 
+  <Book>
+    <BookName>Daytripper</BookName>
+    <BookImage>_8</BookImage>
+    <BookAuthor>Fabio Moon</BookAuthor>
+    <BookPrice>38,00</BookPrice>
+    <BookCategory>Comic</BookCategory>
+    <BookPageNumber>272</BookPageNumber>
+    <BookDescription>What are the most important days of your life?
+
+Meet Brás de Oliva Domingos. The miracle child of a world-famous Brazilian writer, Brás spends his days penning other people's obituaries and his nights dreaming of becoming a successful author himself—writing the end of other people's stories, while his own has barely begun.</BookDescription>
+  </Book>
+  
+  <Book>
+    <BookName>Brave New World</BookName>
+    <BookImage>_14</BookImage>
+    <BookAuthor>Aldous Huxley</BookAuthor>
+    <BookPrice>10,00</BookPrice>
+    <BookCategory>Classic</BookCategory>
+    <BookPageNumber>268</BookPageNumber>
+    <BookDescription>Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his distress...
+
+Huxley's ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.</BookDescription>
+  </Book>
+
+<Book>
+    <BookName>The Stranger</BookName>
+    <BookImage>_2</BookImage>
+    <BookAuthor>Albert Camus</BookAuthor>
+    <BookPrice>7,30</BookPrice>
+    <BookCategory>Classic</BookCategory>
+    <BookPageNumber>123</BookPageNumber>
+    <BookDescription>Through the story of an ordinary man unwittingly drawn into a senseless murder on an Algerian beach, Camus explored what he termed "the nakedness of man faced with the absurd." First published in English in 1946; now in a new translation by Matthew Ward.</BookDescription>
+  </Book>
+
+</ArrayOfBook>
